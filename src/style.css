@@ -94,3 +94,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+box-red {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
